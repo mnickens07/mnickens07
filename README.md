@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnickens07(Marcus)
 - 👀 I’m interested in Javascript, Python, Java, MySQL, and all things AI!
-- 🌱 I’m currently learning git commands and Twitter API
+- 🌱 I’m currently learning Linux and Google Cloud Platform
 - 💞️ I’m looking to collaborate on anything since I am new to this whole coding scene.
 - 📫 How to reach me mnickens07@gmail.com
 
